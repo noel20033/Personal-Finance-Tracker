@@ -10,17 +10,17 @@ Sprint #1
 
 Sprint #2
 
-- [ ] Find information on related project by youtube videos, websites, etc. 
+- [X] Find information on related project by youtube videos, websites, etc. -https://www.youtube.com/watch?v=HTD86h69PtE&ab_channel=pixegami
 
-- [ ] Make expensive catogories 
+- [X] Make expensive catogories
 
-- [ ] Create user inputs
+- [X] make income variable
 
 - [ ] create days and months
 
 - [ ] Each commit should include a comment that explains what you did and explain what your update was and why you did it briefly.
 
-- [ ] Need to make sure to track progress on the tasks and document it on the project road map.
+- [X] Need to make sure to track progress on the tasks and document it on the project road map.
 
 Sprint #3
 
